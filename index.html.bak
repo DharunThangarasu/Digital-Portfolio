@@ -230,6 +230,52 @@
         <div class="item">
           <div class="left">
             <div class="img">
+              <img src="images/project-3.jpg" alt="">
+            </div>
+          </div>
+          <div class="right">
+            <h2 class="project-title">“Design and Fabrication of Automatic Groundnut Seeding Machine</h2>
+            <h3 class="project-sub-title">CAD in Auto CAD, MS Office</h3>
+            <p class="project-desc">• The main objective is to reduce the manual work of seeding in large farms. And it reduced the time duration compared to manual seeding. It covers ploughing, seeding, and leveling.</p>
+            <div class="buttons">
+              <!-- <a href="#" class="primary-btn">Know More</a>
+              <a href="#" class="primary-btn outline external-link"> <span>Preview</span>
+              -->  <!--  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              -->   <!-- </svg> 
+             </a>-->
+            </div>
+          </div>
+        </div>
+		
+		
+		<div class="item">
+          <div class="left">
+            <div class="img">
+              <img src="images/project-3.jpg" alt="">
+            </div>
+          </div>
+          <div class="right">
+            <h2 class="project-title">““Design and Fabrication of Extendable additional steps for busses</h2>
+            <h3 class="project-sub-title"> CAD and RULA analysis in PTC Creo, ANSYS 19.2, MS Office</h3>
+            <p class="project-desc">• With high-floor steps in busses, elderly people have the risk of getting knee pain. For this problem, extendable additional steps act as an attachment to the busses and used to reduce the ground clearance.</p>
+            <div class="buttons">
+              <!-- <a href="#" class="primary-btn">Know More</a>
+              <a href="#" class="primary-btn outline external-link"> <span>Preview</span>
+              -->  <!--  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              -->   <!-- </svg> 
+             </a>-->
+            </div>
+          </div>
+        </div>
+		
+		
+		<div class="item">
+          <div class="left">
+            <div class="img">
               <img src="images/8.jpg" alt="">
             </div>
           </div>
