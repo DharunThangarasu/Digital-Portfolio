@@ -263,13 +263,6 @@
         <div class="max-width">
             <h2 class="title">My Certifications</h2>
             <div class="carousel owl-carousel">
-				<div class="card">	
-					<div class="box">
-                        <img src="images/pmp.PNG" alt="">
-                        <div class="text">Project Management Professional(PMP)®</div>
-                        <p>Project Management Institute (PMI)</p>
-                    </div>
-                </div>
 			   <div class="card">
                     <div class="box">
                         <img src="images/kpmg.jpg" alt="">
@@ -315,6 +308,13 @@
                         <div class="text">Certified Associate in Project Management</div>
 					    </br>
 						<p>Project Management Institute</p>
+                    </div>
+                </div>
+				<div class="card">	
+					<div class="box">
+                        <img src="images/pmp.PNG" alt="">
+                        <div class="text">Project Management Professional(PMP)®</div>
+                        <p>Project Management Institute (PMI)</p>
                     </div>
                 </div>
             </div>
