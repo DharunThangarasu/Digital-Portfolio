@@ -356,11 +356,12 @@
 						<p>Project Management Institute</p>
                     </div>
                 </div>
-				<div class="card">	
-					<div class="box">
-                        <img src="images/pmi.PNG" alt="">
-                        <div class="text">Project Management Professional(PMP)®</div>
-                        <p>Project Management Institute (PMI)</p>
+				<div class="card">
+                    <div class="box">
+                       <img src="images/pmp2.PNG" alt="">
+                        <div class="text">Project Management Professional</div>
+					    </br>
+						<p>Project Management Institute</p>
                     </div>
                 </div>
             </div>
